@@ -1,62 +1,62 @@
 export default [
     {
         "name": "Public",
-        "isFolder": "true",
+        "isFolder": true,
         "children": [
             {
                 "name": "vite.svg",
-                "isFolder": "false"
+                "isFolder": false
             },
         ]
     },
     {
         "name": "src",
-        "isFolder": "true",
+        "isFolder": true,
         "children": [
             {
                 "name": "App.css",
-                "isFolder": "false"
+                "isFolder": false
             },
             {
                 "name": "App.jsx",
-                "isFolder": "false"
+                "isFolder": false
             },
             {
                 "name": "data.json",
-                "isFolder": "false"
+                "isFolder": false
             },
             {
                 "name": "index.css",
-                "isFolder": "false"
+                "isFolder": false
             },
             {
                 "name": "main.jsx",
-                "isFolder": "false"
+                "isFolder": false
             }
         ]
     },
     {
         "name": ".gitignore",
-        "isFolder": "false"
+        "isFolder": false
     },
     {
         "name": "eslint.config.js",
-        "isFolder": "false"
+        "isFolder": false
     },
     {
         "name": "package-lock.json",
-        "isFolder": "false"
+        "isFolder": false
     },
     {
         "name": "package.json",
-        "isFolder": "false"
+        "isFolder": false
     },
     {
         "name": "README.md",
-        "isFolder": "false"
+        "isFolder": false
     },
     {
         "name": "vite.config.js",
-        "isFolder": "false"
+        "isFolder": false
     }
 ];
